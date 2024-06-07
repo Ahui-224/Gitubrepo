@@ -13,5 +13,5 @@ export default {
 	database: 'web_shop', // 数据库名称
 	
 	secret: '123456',  // session
-	maxAge: 1000 * 60 * 60 * 6  // session保存6个小时
+	maxAge: 1000 * 60 * 60 * 1  // session保存1个小时
 }
